@@ -1,0 +1,27 @@
+body {
+  background-color: #1f3969;
+  /* background-image: url("./images/CandaceN2022_02_26_NSS_0457_T.jpg"); */
+}
+
+.header {
+	display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  justify-content: space-around;
+}
+
+.img__me {
+  object-fit: cover;
+	width: 25%;
+  /* height: 25%; */
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.section--about {
+	width: 25%
+}
