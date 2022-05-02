@@ -25,3 +25,23 @@ body {
 .section--about {
 	width: 25%
 }
+
+/* unvisited link */
+a:link {
+  color: rgb(8, 161, 34);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(201, 102, 21);
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: rgb(7, 165, 204);
+}
